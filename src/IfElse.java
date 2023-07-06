@@ -1,0 +1,17 @@
+
+public class IfElse 
+{
+	public static void main (String args[])
+	{
+		int age =25;
+		if (age>=18)
+		{
+			System.out.println("Eligibale for vote");
+		}
+		else
+		{
+			System.out.println("Not Eligible for vote");
+		}
+		System.out.println("End");
+	}
+}
